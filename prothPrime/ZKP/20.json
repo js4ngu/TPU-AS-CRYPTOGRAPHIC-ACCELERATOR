@@ -1,0 +1,254 @@
+[
+    {
+        "BitLength": 25,
+        "w": 7664329,
+        "Dec": 23068673,
+        "chk": 1,
+        "MathExpression": "22 * 2^20 + 1",
+        "HexRepresentation": "0x1600001",
+        "psi": 177147
+    },
+    {
+        "BitLength": 27,
+        "w": 15216334,
+        "Dec": 69206017,
+        "chk": 1,
+        "MathExpression": "66 * 2^20 + 1",
+        "HexRepresentation": "0x4200001",
+        "psi": 13058274
+    },
+    {
+        "BitLength": 27,
+        "w": 80102761,
+        "Dec": 81788929,
+        "chk": 1,
+        "MathExpression": "78 * 2^20 + 1",
+        "HexRepresentation": "0x4e00001",
+        "psi": 22285958
+    },
+    {
+        "BitLength": 27,
+        "w": 79427530,
+        "Dec": 104857601,
+        "chk": 1,
+        "MathExpression": "100 * 2^20 + 1",
+        "HexRepresentation": "0x6400001",
+        "psi": 6350210
+    },
+    {
+        "BitLength": 27,
+        "w": 85311531,
+        "Dec": 111149057,
+        "chk": 1,
+        "MathExpression": "106 * 2^20 + 1",
+        "HexRepresentation": "0x6a00001",
+        "psi": 50381511
+    },
+    {
+        "BitLength": 27,
+        "w": 16301655,
+        "Dec": 113246209,
+        "chk": 1,
+        "MathExpression": "108 * 2^20 + 1",
+        "HexRepresentation": "0x6c00001",
+        "psi": 25384253
+    },
+    {
+        "BitLength": 27,
+        "w": 24880119,
+        "Dec": 132120577,
+        "chk": 1,
+        "MathExpression": "126 * 2^20 + 1",
+        "HexRepresentation": "0x7e00001",
+        "psi": 29743583
+    },
+    {
+        "BitLength": 28,
+        "w": 71159372,
+        "Dec": 136314881,
+        "chk": 1,
+        "MathExpression": "130 * 2^20 + 1",
+        "HexRepresentation": "0x8200001",
+        "psi": 2981173
+    },
+    {
+        "BitLength": 28,
+        "w": 20853192,
+        "Dec": 138412033,
+        "chk": 1,
+        "MathExpression": "132 * 2^20 + 1",
+        "HexRepresentation": "0x8400001",
+        "psi": 35961619
+    },
+    {
+        "BitLength": 28,
+        "w": 69271809,
+        "Dec": 155189249,
+        "chk": 1,
+        "MathExpression": "148 * 2^20 + 1",
+        "HexRepresentation": "0x9400001",
+        "psi": 59269219
+    },
+    {
+        "BitLength": 28,
+        "w": 121844538,
+        "Dec": 163577857,
+        "chk": 1,
+        "MathExpression": "156 * 2^20 + 1",
+        "HexRepresentation": "0x9c00001",
+        "psi": 40336560
+    },
+    {
+        "BitLength": 28,
+        "w": 88009046,
+        "Dec": 167772161,
+        "chk": 1,
+        "MathExpression": "160 * 2^20 + 1",
+        "HexRepresentation": "0xa000001",
+        "psi": 20000540
+    },
+    {
+        "BitLength": 28,
+        "w": 122157894,
+        "Dec": 169869313,
+        "chk": 1,
+        "MathExpression": "162 * 2^20 + 1",
+        "HexRepresentation": "0xa200001",
+        "psi": 26514452
+    },
+    {
+        "BitLength": 28,
+        "w": 152512686,
+        "Dec": 186646529,
+        "chk": 1,
+        "MathExpression": "178 * 2^20 + 1",
+        "HexRepresentation": "0xb200001",
+        "psi": 88383805
+    },
+    {
+        "BitLength": 28,
+        "w": 57261324,
+        "Dec": 199229441,
+        "chk": 1,
+        "MathExpression": "190 * 2^20 + 1",
+        "HexRepresentation": "0xbe00001",
+        "psi": 24559077
+    },
+    {
+        "BitLength": 28,
+        "w": 192489830,
+        "Dec": 211812353,
+        "chk": 1,
+        "MathExpression": "202 * 2^20 + 1",
+        "HexRepresentation": "0xca00001",
+        "psi": 97959427
+    },
+    {
+        "BitLength": 28,
+        "w": 111471737,
+        "Dec": 230686721,
+        "chk": 1,
+        "MathExpression": "220 * 2^20 + 1",
+        "HexRepresentation": "0xdc00001",
+        "psi": 29926049
+    },
+    {
+        "BitLength": 28,
+        "w": 65352293,
+        "Dec": 249561089,
+        "chk": 1,
+        "MathExpression": "238 * 2^20 + 1",
+        "HexRepresentation": "0xee00001",
+        "psi": 61724276
+    },
+    {
+        "BitLength": 28,
+        "w": 144557401,
+        "Dec": 257949697,
+        "chk": 1,
+        "MathExpression": "246 * 2^20 + 1",
+        "HexRepresentation": "0xf600001",
+        "psi": 71478881
+    },
+    {
+        "BitLength": 29,
+        "w": 97367949,
+        "Dec": 270532609,
+        "chk": 1,
+        "MathExpression": "258 * 2^20 + 1",
+        "HexRepresentation": "0x10200001",
+        "psi": 74891632
+    },
+    {
+        "BitLength": 29,
+        "w": 219055791,
+        "Dec": 274726913,
+        "chk": 1,
+        "MathExpression": "262 * 2^20 + 1",
+        "HexRepresentation": "0x10600001",
+        "psi": 19248197
+    },
+    {
+        "BitLength": 29,
+        "w": 228176430,
+        "Dec": 377487361,
+        "chk": 1,
+        "MathExpression": "360 * 2^20 + 1",
+        "HexRepresentation": "0x16800001",
+        "psi": 169440108
+    },
+    {
+        "BitLength": 29,
+        "w": 153097542,
+        "Dec": 383778817,
+        "chk": 1,
+        "MathExpression": "366 * 2^20 + 1",
+        "HexRepresentation": "0x16e00001",
+        "psi": 58896998
+    },
+    {
+        "BitLength": 29,
+        "w": 165818475,
+        "Dec": 387973121,
+        "chk": 1,
+        "MathExpression": "370 * 2^20 + 1",
+        "HexRepresentation": "0x17200001",
+        "psi": 124477810
+    },
+    {
+        "BitLength": 29,
+        "w": 54826948,
+        "Dec": 415236097,
+        "chk": 1,
+        "MathExpression": "396 * 2^20 + 1",
+        "HexRepresentation": "0x18c00001",
+        "psi": 110584060
+    },
+    {
+        "BitLength": 29,
+        "w": 237167919,
+        "Dec": 459276289,
+        "chk": 1,
+        "MathExpression": "438 * 2^20 + 1",
+        "HexRepresentation": "0x1b600001",
+        "psi": 220553188
+    },
+    {
+        "BitLength": 29,
+        "w": 452629859,
+        "Dec": 463470593,
+        "chk": 1,
+        "MathExpression": "442 * 2^20 + 1",
+        "HexRepresentation": "0x1ba00001",
+        "psi": 35242555
+    },
+    {
+        "BitLength": 29,
+        "w": 197868229,
+        "Dec": 469762049,
+        "chk": 1,
+        "MathExpression": "448 * 2^20 + 1",
+        "HexRepresentation": "0x1c000001",
+        "psi": 172312959
+    }
+]

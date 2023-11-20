@@ -1,0 +1,101 @@
+[
+    {
+        "BitLength": 18,
+        "w": 62093,
+        "Dec": 147457,
+        "chk": 1,
+        "MathExpression": "18 * 2^13 + 1",
+        "HexRepresentation": "0x24001",
+        "psi": 53374
+    },
+    {
+        "BitLength": 20,
+        "w": 217165,
+        "Dec": 638977,
+        "chk": 1,
+        "MathExpression": "78 * 2^13 + 1",
+        "HexRepresentation": "0x9c001",
+        "psi": 177572
+    },
+    {
+        "BitLength": 20,
+        "w": 406601,
+        "Dec": 786433,
+        "chk": 1,
+        "MathExpression": "96 * 2^13 + 1",
+        "HexRepresentation": "0xc0001",
+        "psi": 83833
+    },
+    {
+        "BitLength": 20,
+        "w": 97058,
+        "Dec": 1032193,
+        "chk": 1,
+        "MathExpression": "126 * 2^13 + 1",
+        "HexRepresentation": "0xfc001",
+        "psi": 445136
+    },
+    {
+        "BitLength": 21,
+        "w": 1172569,
+        "Dec": 1376257,
+        "chk": 1,
+        "MathExpression": "168 * 2^13 + 1",
+        "HexRepresentation": "0x150001",
+        "psi": 590046
+    },
+    {
+        "BitLength": 21,
+        "w": 727487,
+        "Dec": 1720321,
+        "chk": 1,
+        "MathExpression": "210 * 2^13 + 1",
+        "HexRepresentation": "0x1a4001",
+        "psi": 690746
+    },
+    {
+        "BitLength": 22,
+        "w": 3194188,
+        "Dec": 3260417,
+        "chk": 1,
+        "MathExpression": "398 * 2^13 + 1",
+        "HexRepresentation": "0x31c001",
+        "psi": 340069
+    },
+    {
+        "BitLength": 22,
+        "w": 470677,
+        "Dec": 3489793,
+        "chk": 1,
+        "MathExpression": "426 * 2^13 + 1",
+        "HexRepresentation": "0x354001",
+        "psi": 409127
+    },
+    {
+        "BitLength": 22,
+        "w": 1650233,
+        "Dec": 3588097,
+        "chk": 1,
+        "MathExpression": "438 * 2^13 + 1",
+        "HexRepresentation": "0x36c001",
+        "psi": 535378
+    },
+    {
+        "BitLength": 22,
+        "w": 1977521,
+        "Dec": 3604481,
+        "chk": 1,
+        "MathExpression": "440 * 2^13 + 1",
+        "HexRepresentation": "0x370001",
+        "psi": 1501875
+    },
+    {
+        "BitLength": 22,
+        "w": 1932022,
+        "Dec": 4046849,
+        "chk": 1,
+        "MathExpression": "494 * 2^13 + 1",
+        "HexRepresentation": "0x3dc001",
+        "psi": 1319703
+    }
+]

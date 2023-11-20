@@ -1,0 +1,20 @@
+[
+    {
+        "BitLength": 5,
+        "w": 13,
+        "Dec": 17,
+        "chk": 1,
+        "MathExpression": "4 * 2^2 + 1",
+        "HexRepresentation": "0x11",
+        "psi": 8
+    },
+    {
+        "BitLength": 6,
+        "w": 32,
+        "Dec": 41,
+        "chk": 1,
+        "MathExpression": "10 * 2^2 + 1",
+        "HexRepresentation": "0x29",
+        "psi": 14
+    }
+]

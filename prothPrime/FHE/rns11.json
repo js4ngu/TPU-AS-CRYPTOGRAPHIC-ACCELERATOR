@@ -1,0 +1,38 @@
+[
+    {
+        "BitLength": 14,
+        "w": 1945,
+        "Dec": 12289,
+        "chk": 1,
+        "MathExpression": "6 * 2^11 + 1",
+        "HexRepresentation": "0x3001",
+        "psi": 1331
+    },
+    {
+        "BitLength": 16,
+        "w": 20237,
+        "Dec": 40961,
+        "chk": 1,
+        "MathExpression": "20 * 2^11 + 1",
+        "HexRepresentation": "0xa001",
+        "psi": 18088
+    },
+    {
+        "BitLength": 16,
+        "w": 16290,
+        "Dec": 61441,
+        "chk": 1,
+        "MathExpression": "30 * 2^11 + 1",
+        "HexRepresentation": "0xf001",
+        "psi": 22438
+    },
+    {
+        "BitLength": 17,
+        "w": 61869,
+        "Dec": 65537,
+        "chk": 1,
+        "MathExpression": "32 * 2^11 + 1",
+        "HexRepresentation": "0x10001",
+        "psi": 11088
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "BitLength": 9,
+        "w": 3,
+        "Dec": 257,
+        "chk": 1,
+        "MathExpression": "1 * 2^8 + 1",
+        "HexRepresentation": "0x101"
+    },
+    {
+        "BitLength": 10,
+        "w": 562,
+        "Dec": 769,
+        "chk": 1,
+        "MathExpression": "3 * 2^8 + 1",
+        "HexRepresentation": "0x301"
+    }
+]

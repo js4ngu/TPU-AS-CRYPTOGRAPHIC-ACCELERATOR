@@ -1,0 +1,56 @@
+[
+    {
+        "BitLength": 19,
+        "w": 72109,
+        "Dec": 270337,
+        "chk": 1,
+        "MathExpression": "66 * 2^12 + 1",
+        "HexRepresentation": "0x42001",
+        "psi": 86290
+    },
+    {
+        "BitLength": 20,
+        "w": 310570,
+        "Dec": 557057,
+        "chk": 1,
+        "MathExpression": "136 * 2^12 + 1",
+        "HexRepresentation": "0x88001",
+        "psi": 160144
+    },
+    {
+        "BitLength": 20,
+        "w": 648897,
+        "Dec": 778241,
+        "chk": 1,
+        "MathExpression": "190 * 2^12 + 1",
+        "HexRepresentation": "0xbe001",
+        "psi": 173742
+    },
+    {
+        "BitLength": 20,
+        "w": 427941,
+        "Dec": 786433,
+        "chk": 1,
+        "MathExpression": "192 * 2^12 + 1",
+        "HexRepresentation": "0xc0001",
+        "psi": 379832
+    },
+    {
+        "BitLength": 20,
+        "w": 421343,
+        "Dec": 925697,
+        "chk": 1,
+        "MathExpression": "226 * 2^12 + 1",
+        "HexRepresentation": "0xe2001",
+        "psi": 58914
+    },
+    {
+        "BitLength": 20,
+        "w": 808930,
+        "Dec": 974849,
+        "chk": 1,
+        "MathExpression": "238 * 2^12 + 1",
+        "HexRepresentation": "0xee001",
+        "psi": 60477
+    }
+]
